@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>jh_gitTest01</name>
+=======
+	<name>Seongho_gitTest01</name>
+>>>>>>> branch 'master' of https://github.com/parkseongho94/Seongho_gitTest01.git
 	<comment></comment>
 	<projects>
 	</projects>

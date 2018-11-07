@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="jh_gitTest01">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="jh_gitTest01"/>
         <property name="java-output-path" value="/jh_gitTest01/build/classes"/>
+=======
+    <wb-module deploy-name="Seongho_gitTest01">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Seongho_gitTest01"/>
+        <property name="java-output-path" value="/Seongho_gitTest01/build/classes"/>
+>>>>>>> branch 'master' of https://github.com/parkseongho94/Seongho_gitTest01.git
     </wb-module>
 </project-modules>

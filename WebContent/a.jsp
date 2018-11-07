@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <%@ page language="java" contentType="text/html; charset=UTF-8"  pageEncoding="UTF-8"%>
 <!DOCTYPE html >
 <html>
@@ -8,5 +9,18 @@
 <body>
 a.jsp문서입니다.
 수정한번더
+=======
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+a.jsp문서
+
+>>>>>>> branch 'master' of https://github.com/parkseongho94/Seongho_gitTest01.git
 </body>
 </html>
